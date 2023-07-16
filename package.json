@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {
+    "flatted": "^3.2.7",
+    "google-auth-library": "^8.9.0",
+    "google-spreadsheet": "^4.0.2"
+  }
+}
